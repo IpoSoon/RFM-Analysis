@@ -28,12 +28,17 @@
 - **Seaborn Countplot of customer segmentation**
 ![image](https://user-images.githubusercontent.com/101726623/235648007-108121f0-d6cf-4353-885c-2bf76d01cadb.png)
 
-- **Pie chart of Channel, Ship mode, Category, Sub-category**
-![image](https://user-images.githubusercontent.com/101726623/235648294-3f77660b-b8f1-42ad-be45-5b3567e56882.png) ![image](https://user-images.githubusercontent.com/101726623/235648314-4396431f-11c1-40a5-8a7a-2d27ccd2586e.png) ![image](https://user-images.githubusercontent.com/101726623/235648328-c5aaf435-d100-48f9-9d20-488252f9d628.png) ![image](https://user-images.githubusercontent.com/101726623/235648339-0f189324-168a-4818-b89f-2217d1e592fb.png)
+- **Pie chart of Channel**
+![image](https://user-images.githubusercontent.com/101726623/235648595-b7c00066-2130-4386-9991-dacc50db4a1c.png)
 
+- **Pie chart of Ship mode**
+![image](https://user-images.githubusercontent.com/101726623/235648619-d43a2aaa-054a-4170-8708-2c8c53f17ba5.png)
 
+- **Pie chart of Category**
+![image](https://user-images.githubusercontent.com/101726623/235648648-bc05d567-d755-4b8a-b227-ec0a3bf9753b.png)
 
-
+- **Pie chart of Sub-category**
+![image](https://user-images.githubusercontent.com/101726623/235648663-667f65f9-4628-4554-9774-17950f7771c0.png)
 
 
 ## III. Insights

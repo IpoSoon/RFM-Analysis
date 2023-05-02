@@ -39,8 +39,18 @@
 - **Pie chart of Sub-category**
 
 ![image](https://user-images.githubusercontent.com/101726623/235648663-667f65f9-4628-4554-9774-17950f7771c0.png)
+- **Bar plot: Total Sales by Segmentation**
 
+![image](https://user-images.githubusercontent.com/101726623/235648968-31eef44e-4154-4f82-90d3-a34866fa5b73.png)
+- **Bar plot: Total Profit by Segmentation**
 
+![image](https://user-images.githubusercontent.com/101726623/235649043-469a6a43-56e1-46db-a87b-ed32d0719b06.png)
+- **Bar plot: Total Sales by Region**
+
+![image](https://user-images.githubusercontent.com/101726623/235649234-3f7b712b-93a0-4469-b696-2efab733a2ea.png)
+- **Treemap of State**
+
+![newplot (1)](https://user-images.githubusercontent.com/101726623/235649382-7105ded5-388e-4f6a-9a52-e44ffcc25891.png)
 ## III. Insights
 - 1.The most important index of the 3 indicators that the SuperStore company needs to pay attention to is F, then R: because the rate of customers buying once and twice is very high. Very few customers make long-term purchases like 8-9 times or more.
   -> That shows that the customer retention rate at the company is still low.

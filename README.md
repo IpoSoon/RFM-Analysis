@@ -35,12 +35,12 @@
 
 ## IV. Recommendations
 - The company needs to have policies to:
-  - Retaining new customers:
+  - **Retaining new customers**:
     - For new customers who have made a recent purchase, send a personalized welcome email or offer that thanks them for their purchase and encourages them to return to our business.
     - For customers who have made only one purchase, use email marketing to keep them engaged with our brand and encourage them to make a second purchase.
     - Offer a special discount or promotion to incentivize them to return.
     - For customers who have made a high-value purchase, thank them for their business and offer a loyalty program that rewards them for their continued purchases.
-  - Promoting hibernating customers:
+  - **Promoting hibernating customers**:
     - For hibernating customers who have not made a purchase in a while, send a win-back email or offer that encourages them to return to our business.
     - Offer a special discount or promotion that is personalized based on their past purchases.
     - For customers who have made multiple purchases in the past but have not made one recently, send personalized email campaigns that showcase new products or services that may be of interest to them.

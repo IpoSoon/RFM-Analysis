@@ -48,7 +48,7 @@
 - **Bar plot: Total Sales by Region**
 
 ![image](https://user-images.githubusercontent.com/101726623/235649234-3f7b712b-93a0-4469-b696-2efab733a2ea.png)
-- **Treemap of State**
+- **Treemap of State by Orders**
 
 ![newplot (1)](https://user-images.githubusercontent.com/101726623/235649382-7105ded5-388e-4f6a-9a52-e44ffcc25891.png)
 ## III. Insights

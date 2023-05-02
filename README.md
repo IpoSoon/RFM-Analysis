@@ -17,7 +17,7 @@
 - The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch marketing campaigns to thank customers for supporting the company over the past time. As well as exploit potential customers to become loyal customers.
 - Suggestions to the Marketing and Sales team with the company's retail model, which of the three indicators R, F, and M should be most interested in?
 
-## II. Visualization with Python
+## II. Data Visualization with Python
 - **Seaborn Countplot of Frequency**
 
 ![image](https://user-images.githubusercontent.com/101726623/235647773-ca8207b8-5d53-4f5d-95dc-29b3ebc04b46.png)

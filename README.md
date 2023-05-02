@@ -25,6 +25,17 @@
 - **Treemap of customer segmentation**
 ![newplot](https://user-images.githubusercontent.com/101726623/235647501-226fcecb-9db0-4996-85c6-f4238c421cc0.png)
 
+- **Seaborn Countplot of customer segmentation**
+![image](https://user-images.githubusercontent.com/101726623/235648007-108121f0-d6cf-4353-885c-2bf76d01cadb.png)
+
+- **Pie chart of Channel, Ship mode, Category, Sub-category**
+![image](https://user-images.githubusercontent.com/101726623/235648294-3f77660b-b8f1-42ad-be45-5b3567e56882.png) ![image](https://user-images.githubusercontent.com/101726623/235648314-4396431f-11c1-40a5-8a7a-2d27ccd2586e.png) ![image](https://user-images.githubusercontent.com/101726623/235648328-c5aaf435-d100-48f9-9d20-488252f9d628.png) ![image](https://user-images.githubusercontent.com/101726623/235648339-0f189324-168a-4818-b89f-2217d1e592fb.png)
+
+
+
+
+
+
 ## III. Insights
 - 1.The most important index of the 3 indicators that the SuperStore company needs to pay attention to is F, then R: because the rate of customers buying once and twice is very high. Very few customers make long-term purchases like 8-9 times or more.
   -> That shows that the customer retention rate at the company is still low.

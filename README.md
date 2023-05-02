@@ -13,7 +13,8 @@
 - [RFM Analysis For Successful Customer Segmentation](https://www.putler.com/rfm-analysis)
 
 ### Business Questions
-
+- The Marketing Department needs to classify the segments of each customer to deploy each marketing program suitable for each customer group.
+- The Marketing Director also proposed a plan to use the RFM model in Python to segment customers, and then launch marketing campaigns to thank customers for supporting the company over the past time. As well as exploit potential customers to become loyal customers.
 
 
 ## II. Design Thinking Method

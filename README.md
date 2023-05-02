@@ -75,4 +75,3 @@
     - For customers who have made multiple purchases in the past but have not made one recently, send personalized email campaigns that showcase new products or services that may be of interest to them.
     - For high-value customers who have not made a purchase in a while, send a personalized email or offer that highlights new products or services that may be of interest to them and offer a special discount or promotion that is tailored to their past purchase history.
 - Need to have a marketing strategy to focus on the segment: Consumer- Office Supplies segment in states like California, Texas, and Illinois vs Florida.
-

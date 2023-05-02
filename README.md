@@ -1,6 +1,6 @@
 # [PYTHON] RFM Analysis
 ## I. Introduction
-### 1. Content
+### 1. About RFM Analysis
 ### Why RFM?
 - RFM is a marketing analysis technique that stands for Recency, Frequency, and Monetary Value.
   - **Recency**: measures how recently a customer has made a purchase.

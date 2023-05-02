@@ -19,7 +19,8 @@
 
 ## II. Visualization with Python
 - **Seaborn Countplot of Frequency**
-![image](https://user-images.githubusercontent.com/101726623/235643778-b9b218b3-4e75-4691-895e-67b7829c3465.png)
+![image](https://user-images.githubusercontent.com/101726623/235647773-ca8207b8-5d53-4f5d-95dc-29b3ebc04b46.png)
+
 - **Treemap of customer segmentation**
 ![newplot](https://user-images.githubusercontent.com/101726623/235647501-226fcecb-9db0-4996-85c6-f4238c421cc0.png)
 

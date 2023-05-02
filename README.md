@@ -18,8 +18,10 @@
 - Suggestions to the Marketing and Sales team with the company's retail model, which of the three indicators R, F, and M should be most interested in?
 
 ## II. Visualization with Python
-
-
+- **Seaborn Countplot of Frequency**
+![image](https://user-images.githubusercontent.com/101726623/235643778-b9b218b3-4e75-4691-895e-67b7829c3465.png)
+- **Treemap of customer segmentation**
+![newplot](https://user-images.githubusercontent.com/101726623/235647501-226fcecb-9db0-4996-85c6-f4238c421cc0.png)
 
 ## III. Insights
 - 1.The most important index of the 3 indicators that the SuperStore company needs to pay attention to is F, then R: because the rate of customers buying once and twice is very high. Very few customers make long-term purchases like 8-9 times or more.

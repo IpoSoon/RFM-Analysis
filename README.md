@@ -10,7 +10,7 @@
 ### How?
 - In RFM analysis, customers are scored based on three factors (Recency - how recently, Frequency - how often, Monetary - how much), then labeled based on the combination of RFM scores
 ### Reference
-- #### [RFM Analysis For Successful Customer Segmentation](https://www.putler.com/rfm-analysis)
+- [RFM Analysis For Successful Customer Segmentation](https://www.putler.com/rfm-analysis)
 
 ### Business Questions
 

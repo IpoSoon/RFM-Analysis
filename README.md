@@ -21,23 +21,23 @@
 - **Seaborn Countplot of Frequency**
 
 ![image](https://user-images.githubusercontent.com/101726623/235647773-ca8207b8-5d53-4f5d-95dc-29b3ebc04b46.png)
-
 - **Treemap of customer segmentation**
+
 ![newplot](https://user-images.githubusercontent.com/101726623/235647501-226fcecb-9db0-4996-85c6-f4238c421cc0.png)
-
 - **Seaborn Countplot of customer segmentation**
+
 ![image](https://user-images.githubusercontent.com/101726623/235648007-108121f0-d6cf-4353-885c-2bf76d01cadb.png)
-
 - **Pie chart of Channel**
+
 ![image](https://user-images.githubusercontent.com/101726623/235648595-b7c00066-2130-4386-9991-dacc50db4a1c.png)
-
 - **Pie chart of Ship mode**
+
 ![image](https://user-images.githubusercontent.com/101726623/235648619-d43a2aaa-054a-4170-8708-2c8c53f17ba5.png)
-
 - **Pie chart of Category**
-![image](https://user-images.githubusercontent.com/101726623/235648648-bc05d567-d755-4b8a-b227-ec0a3bf9753b.png)
 
+![image](https://user-images.githubusercontent.com/101726623/235648648-bc05d567-d755-4b8a-b227-ec0a3bf9753b.png)
 - **Pie chart of Sub-category**
+
 ![image](https://user-images.githubusercontent.com/101726623/235648663-667f65f9-4628-4554-9774-17950f7771c0.png)
 
 

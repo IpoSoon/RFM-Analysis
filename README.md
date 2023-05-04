@@ -53,7 +53,7 @@
 ![newplot (1)](https://user-images.githubusercontent.com/101726623/235649382-7105ded5-388e-4f6a-9a52-e44ffcc25891.png)
 ## III. Insights
 - 1.The most important index of the 3 indicators that the SuperStore company needs to pay attention to is F, then R: because the rate of customers buying once and twice is very high. Very few customers make long-term purchases like 8-9 times or more.
-  -> That shows that the customer retention rate at the company is still low.
+     -> That shows that the customer retention rate at the company is still low.
 - 2. About Customer Segmentation: The company is mainly "New Customers" >"Hibernating customers">"Lost customers".
   -> This again shows that we need to pay attention to the index F.
 - 3. Revenue and profit from "New Customers" is the highest.

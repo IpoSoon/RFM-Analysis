@@ -68,7 +68,7 @@
 
 - 7.The categories with the most orders are "Office Supplies" up to 60%, then "Furniture".
 
-- 8. The main subcategory are: Paper(14%), Binders(15%), Art(9%), Phones and Storage (8%).
+- 8.The main subcategory are: Paper(14%), Binders(15%), Art(9%), Phones and Storage (8%).
 ## IV. Recommendations
 - The company needs to have policies to:
   - **Retaining new customers**:
